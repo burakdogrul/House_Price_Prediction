@@ -41,7 +41,7 @@ This data comes from a Kaggle competition named “[House Prices: Advanced Regre
 
 **Neighborhood:** Physical locations within Ames city limits
 
-**Condition1: **Proximity to various conditions
+**Condition1: ** Proximity to various conditions
 
 **Condition2:** Proximity to various conditions (if more than one is present)
 
@@ -57,7 +57,7 @@ This data comes from a Kaggle competition named “[House Prices: Advanced Regre
 
 **YearRemodAdd:** Remodel date (same as construction date if no remodeling or additions)
 
-**RoofStyle:**Type of roof
+**RoofStyle: ** Type of roof
 
 **RoofMatl:** Roof material
 
@@ -73,7 +73,7 @@ This data comes from a Kaggle competition named “[House Prices: Advanced Regre
 
 **ExterCond:** Evaluates the present condition of the material on the exterior
 
-Foundation:** Type of foundation
+**Foundation:**  Type of foundation
 
 **BsmtQual:** Evaluates the height of the basement
 
@@ -103,7 +103,7 @@ Foundation:** Type of foundation
 
 **1stFlrSF:** First Floor square feet
 
-**2ndFlrSF: **Second floor square feet
+**2ndFlrSF: ** Second floor square feet
 
 **LowQualFinSF:** Low quality finished square feet (all floors)
 
